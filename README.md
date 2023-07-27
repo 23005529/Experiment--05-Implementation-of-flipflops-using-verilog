@@ -152,5 +152,6 @@ endmodule
 ### JK FLIPFLOP
 ![JKWF](https://github.com/23005529/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139842207/08808d06-c606-4904-986c-46a54eedf17b)
 
-### RESULTS
+### RESULTS 
+By this we have verified the truthtable of SR flipflop and JK flipflop using verilog.
 
